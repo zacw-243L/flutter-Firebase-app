@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925275897356",
+    "project_id": "i-want-to-die-25ebd",
+    "storage_bucket": "i-want-to-die-25ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925275897356:android:346430d2dc1d7276703829",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxw1TBRPvR6_eUa4Ue6waUMBwia9KJo4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
